@@ -3,16 +3,23 @@ a {
 }
 
 * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-size: 16pt;
 }
 
 h1 {
-    color: rgb(18, 18, 87);
+    color: #12486B;
     text-align: center;
+    font-size: 46pt;
 }
 
 h2, h3 {
-    color: rgb(18, 18, 87);
+    color: #12486B;
+    font-size: 20pt;
+}
+
+hr {
+    color: #12486B;
 }
 
 img {
@@ -21,10 +28,16 @@ img {
     margin-right: auto;
 }
 
-#intro {
-    text-align: center;
+a {
+    color: #12486B;
 }
 
-hr {
-    color: rgb(18, 18, 87);
+.heading {
+    background-color: #12486B;
+    color: white;
+    padding: 3%;
+}
+
+#intro {
+    text-align: center;
 }
